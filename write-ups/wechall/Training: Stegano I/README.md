@@ -24,3 +24,5 @@ BMf6(0Look what the hex-edit revealed: passwd:steganoI⏎
 **Resposta:** steganoI
 
 ## Outros Write-ups e arquivos
+
+* Nada ainda

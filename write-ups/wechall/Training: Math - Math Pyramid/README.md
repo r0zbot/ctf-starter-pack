@@ -34,9 +34,9 @@ A fórmula do volume de uma pirâmide é
 (área da base * altura) / 2
 ```
 
-Como a base é um quadrado, a área é ``` a^2 ```.
+Como a base é um quadrado, a área é `a^2`.
 
-A altura pode ser calculada por pitágoras, encontrando ```a / sqrt(2)```.
+A altura pode ser calculada por pitágoras, encontrando `a / sqrt(2)`.
 
 Logo a fórmula para o volume é
 
@@ -45,11 +45,13 @@ a^2 * a / (3 * sqrt(2))
 ```
 Porém, isso não preenche o requisito de menos de 9 caracteres na fórmula.
 
-Assim, podemos simplificá-la fazendo a multiplicação do ```a```, obtendo ``` a ^3```.
-E podemos substituir primeiramente ```3 * sqrt(2)``` por ```(18)^0.5``` e finalmente por ```18^.5```.
+Assim, podemos simplificá-la fazendo a multiplicação do `a`, obtendo `a^3`.
+E podemos substituir primeiramente `3 * sqrt(2)` por `(18)^0.5` e finalmente por `18^.5`.
 
 Assim, obtemos a fórmula final simplificada.
 
 **Resposta:** a^3/18^.5
 
 ## Outros Write-ups e arquivos
+
+* Nada ainda

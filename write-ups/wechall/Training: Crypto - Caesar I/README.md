@@ -27,3 +27,4 @@ THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG OF CAESAR AND YOUR UNIQUE SOLUTION I
 **Resposta:** SBANBASNNONA
 
 ## Outros Write-ups e arquivos
+* Nada ainda
