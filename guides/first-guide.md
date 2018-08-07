@@ -4,7 +4,7 @@ Este guia destina-se a entusiastas de segurança da informação e que desejam p
 ## O que são CTFs?
 CTF significa Capture the Flag. No contexto de segurança da informação, são competições que envolvem diversas áreas como descoberta de vulnerabilidades, técnicas de [espionagem](https://en.wikipedia.org/wiki/Tradecraft) e criação de <a href="https://pt.wikipedia.org/wiki/Exploit_(seguran%C3%A7a_de_computadores)"> exploits </a> e ferramentas.
 
-De maneira geral, nesses desafios os jogadores são apresentados a problemas, programas com falhas de segurança ou sistemas para serem invadidos. E em cada problema, programa ou sistema, há uma chave secreta ou "flag". Encontrar essa flag é a prova que você resolveu o desafio e enviando no campo especificado faz seu time ganhar pontos.
+De maneira geral, nessas competições os jogadores são apresentados a problemas, programas com falhas de segurança ou sistemas para serem invadidos. E em cada problema, programa ou sistema, há uma chave secreta ou "flag". Encontrar essa flag é a prova que você resolveu o desafio e enviando no campo especificado faz seu time ganhar pontos.
 
 ## Tipos de CTFs
 
@@ -37,6 +37,12 @@ Uma ótima plataforma para acompanhar as datas das principais competições é o
 
 ## Como se preparar para CTFs?
 O melhor jeito de se preparar para essas competições é praticando.
+
+Para auxiliar esse processo, o projeto possui uma lista com desafios muito instrutivos e que abordam diversas àreas da segurança de informação.
+
+O projeto possui também um guia que pretende abordar alguns conceitos básicos para resolver esses desafios de forma didática e rápida.
+
+E ainda, uma ótima forma de treinar é observar resoluções (ou write-ups) de desafios que você não conseguiu ou quer ver outra resolução dele.  
 
 ## Referências
 https://ctf-br.org/
