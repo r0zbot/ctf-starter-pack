@@ -13,7 +13,7 @@ Os CTFs são divididos em dois tipos:
 ### Attack-defense
 Todos os times recebem uma Máquina Virtual com algumas falhas de segurança. O objetivo é capturar as flags através das vulnerabilidades dos outros times e protegendo seu próprio time de invasões corrigindo suas falhas de segurança.
 
-### Jeopard-sytle
+### Jeopardy-sytle
 Todos são apresentados a questões de diversas categorias, níveis de dificuldades e pontuações. As categorias variam de competição para competição, as principais são
 
 * **Crypto:** Envolvem problemas relacionados a [criptografia](https://en.wikipedia.org/wiki/Outline_of_cryptography).
