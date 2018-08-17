@@ -12,6 +12,7 @@
 
 ## Códigos
 - Código ASCII
+- Base 64
 - Código Binário
 - Código Morse
 
