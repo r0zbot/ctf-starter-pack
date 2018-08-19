@@ -6,7 +6,7 @@ Para entender melhor essa ideia, digamos que _Alice_ quer mandar uma mensagem pa
 
 Para isso, _Alice_ usa um certo algoritmo para tornar a mensagem ilegível de forma que só _Bob_ saberá reverter a mensagem encriptada.
 
-![](crypto_introduction.png)
+![](crypto-introduction.png)
 
 Assim, quando _Eve_ interceptar a mensagem por meio do canal inseguro, se ela não possui o algoritmo criptográfico usado por _Alice_ e _Bob_, ela não será capaz de entender a mensagem.
 

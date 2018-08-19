@@ -4,7 +4,7 @@
 - [Como identificar flags?](flags.md)
 
 ## Criptografia
-- O que é criptografia?
+- [O que é criptografia?](crypto/introduction.md)
 - Cifra de César
 - Cifra de Vigenère
 - Cifras de Transposição
