@@ -9,12 +9,12 @@ Nessa cifra, cada letra da mensagem é substituida por uma letra do alfabeto des
 Por exemplo, se queremos encriptar a mensagem `hack the planet`, podemos deslocar cada letra do alfabeto **3 vezes para direita** (ou **right 3**). Assim, a substituição teria esse formato:
 
 |original| A | B | C | D | E | F | G | H | I | J | K | L | M |
-|---|---|
-|right 3| D | E | F | G | H | I | J | K | L | M | N | O | P |
+|--------|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|right 3 | D | E | F | G | H | I | J | K | L | M | N | O | P |
 
 |original| N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
-| --- | --- |
-|right 3| Q | R | S | T | U | V | W | X | Y | Z | A | B | C |
+|--------|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|right 3 | Q | R | S | T | U | V | W | X | Y | Z | A | B | C |
 
 ```
 texto original: hack the planet
