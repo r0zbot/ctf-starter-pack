@@ -9,7 +9,7 @@ Essa Cifra consiste basicamente em pegar uma **palavra-chave** e aplicar a cifra
 Por exemplo, se nós queremos encriptar a mensagem `the cake is a lie` usando a palavra-chave `portal`, primeiro cada caractere da palavra-chave terá um número de rotações equivalente (de acordo com sua posição no alfabeto):
 
 letra    | P | O  | R  | T  | A | L
----|---
+-------- |---|----|----|----|---|---
 rotações | 16| 15 | 18 | 20 | 1 | 12  
 
 Assim, para cada letra da mensagem será rotacionada de acordo com a sequência de rotações acima:
