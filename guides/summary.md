@@ -5,8 +5,8 @@
 
 ## Criptografia
 - [O que é criptografia?](crypto/introduction.md)
-- Cifra de César
-- Cifra de Vigenère
+- [Cifra de César](crypto/caeser-cipher.md)
+- [Cifra de Vigenère](crypto/vigenere-cipher.md)
 - Cifras de Transposição
 - Cifras de Substituição
 
