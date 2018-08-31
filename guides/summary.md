@@ -8,7 +8,7 @@
 - [Cifra de César](crypto/caeser-cipher.md)
 - [Cifra de Vigenère](crypto/vigenere-cipher.md)
 - Cifras de Transposição
-- Cifras de Substituição
+- [Cifras de Substituição](crypto/substitution-cipher.md)
 
 ## Códigos
 - Código ASCII
