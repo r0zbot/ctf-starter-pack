@@ -11,9 +11,9 @@
 - [Cifras de Substituição](crypto/substitution-cipher.md)
 
 ## Códigos
+- [Dados e Códigos](encodings/introduction.md)
 - Código ASCII
 - Base 64
-- Código Binário
 - Código Morse
 
 ## Esteganografia
