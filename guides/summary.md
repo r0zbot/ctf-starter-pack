@@ -13,7 +13,7 @@
 ## Códigos
 - [Dados e Códigos](encodings/introduction.md)
 - [Código ASCII](encodings/ASCII.md)
-- Base 64
+- [Base 64](encodings/base64.md)
 - Código Morse
 
 ## Esteganografia
