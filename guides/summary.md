@@ -12,7 +12,7 @@
 
 ## Códigos
 - [Dados e Códigos](encodings/introduction.md)
-- Código ASCII
+- [Código ASCII](encodings/ASCII.md)
 - Base 64
 - Código Morse
 
