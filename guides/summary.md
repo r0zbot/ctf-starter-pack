@@ -17,6 +17,6 @@
 - Código Morse
 
 ## Esteganografia
-- Cifra de Bacon
+- [Cifra de Bacon](stegano/bacon-cipher.md)
 - Interpretar imagem como texto
 - LSB: Least Significant Bits
