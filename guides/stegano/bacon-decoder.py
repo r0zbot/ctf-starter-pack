@@ -25,9 +25,9 @@ def decode(text, a='a', b='b', bacon_alpha=bacon_to_letter_26):
     output = ''
     while len(cipher) >= 5:
         token, cipher = cipher[:5], cipher[5:]
-        try:
+        if token in bacon_alpha:
             output += bacon_alpha[token]
-        except KeyError:
+        else:
             break
     return output
 
