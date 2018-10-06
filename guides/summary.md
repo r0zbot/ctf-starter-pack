@@ -18,5 +18,5 @@
 
 ## Esteganografia
 - [Cifra de Bacon](stegano/bacon-cipher.md)
-- [Interpretar imagem como texto](image-to-text.md)
+- [Interpretar imagem como texto](guides/stegano/image-to-text.md)
 - LSB: Least Significant Bits
