@@ -26,4 +26,4 @@ mensagem cifrada: I V V  V A V T  W J  T  L T T
 (to-do)
 
 ## Exercícios
-(to-do)
+[picoCTF-2018: blaise's cipher](../../challenges/picoCTF-2018/blaise's-cipher/blaise's-cipher.md)
