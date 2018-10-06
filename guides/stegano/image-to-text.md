@@ -37,6 +37,7 @@ O final da saída desse comando é algo da forma:
 ## Exercícios
 [WeChall: Stegano I](https://www.wechall.net/challenge/training/stegano1/index.php)
 
+[picoCTF-2018: hex-editor](../../challenges/picoCTF-2018/hex-editor/hex-editor.md)
 ## Referências
 [HowtoForge](https://www.howtoforge.com/linux-strings-command/)
 
